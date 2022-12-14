@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import pe.pichincha.cambio.dto.CambioDto;
-import pe.pichincha.cambio.dto.TipoCambioDto;
 import pe.pichincha.cambio.service.CambioService;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
